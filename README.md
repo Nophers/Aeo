@@ -6,6 +6,5 @@ QUICK Start:
 - npm i discord.js
 
 
-Go into Index and change owners, so you can enjoy all commands ;)
-For errors DM me on Discord
+Go into Index and change owners ID, so you can enjoy all commands ;)
 Fill out the tokens in config.json!
