@@ -1,4 +1,4 @@
-# Electra
+# Electra - Deprecated Discord V12
 
 QUICK Start:
 - npm i
